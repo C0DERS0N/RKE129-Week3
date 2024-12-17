@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Roboto+Mono:wght@300&display=swap');
+
+body{
+    background-color: rgb(255, 197, 110);
+}
+
+.link{
+     color: brown;
+}
+.heading{
+    text-align: center;
+}
+
+.recipe-heading{
+    color: rgb(0, 0, 0);
+    font-family:'Roboto Mono', monospace;
+    font-size: 3rem;
+}
+
+.list{
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+}
+
+.whatever{
+    color: rgb(0, 0, 0);
+    font-size: 1,5rem;
+}
+
+.footer{
+    color: rgb(0, 0, 0);
+    font-family:'Gamja Flower', sans-serif;
+    font-size: 2rem;
+    text-align: center   
+}
